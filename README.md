@@ -12,3 +12,6 @@ Contact:
 <i class="devicon-github-original-wordmark"></i>
 <i class="devicon-html5-plain-wordmark"></i>
 <i class="devicon-javascript-plain"></i><i class="devicon-react-original-wordmark"></i><i class="devicon-rails-plain-wordmark"></i><i class="devicon-ruby-plain"></i>
+
+resources:
+https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
