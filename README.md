@@ -7,3 +7,5 @@ Full Stack Software Engineer experienced in Javascript and Ruby on Rails, Childr
 ## Projects
 
 Contact:
+
+<i class="devicon-css3-plain-wordmark"></i><i class="devicon-github-original-wordmark"></i><i class="devicon-html5-plain-wordmark"></i><i class="devicon-javascript-plain"></i><i class="devicon-react-original-wordmark"></i><i class="devicon-rails-plain-wordmark"></i><i class="devicon-ruby-plain"></i>
