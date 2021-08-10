@@ -32,11 +32,9 @@ Take the risk out of Crypto-Investing, You can invest with imaginary digital cur
 ### Marvel Contest of Contest(MCOC) Roster Tracker(Sinatra(Ruby))
 ### Pokemon Gen 1 CLI(Ruby)
 
-### Connect with me:
+Contact:
+LinkedIn: linkedin.com/in/david-p-molina/
 
-[<img align="left" alt="david-p-molina" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 resources:
 <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools -->
-
-[linkedin]: https://linkedin.com/in/david-p-molina/
