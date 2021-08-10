@@ -1,6 +1,12 @@
 # Hey! I'm David!
+## Mini Bio
+Full Stack Software Engineer experienced in Javascript and Ruby on Rails, Children's Ministry, Retail, and Customer Service. Diligent researcher, if it's caught my interest I've read at least 2 articles and watched a few youtube videos on it!
 
-Full Stack Software Engineer experienced in Javascript and Ruby on Rails, Children's Ministry, Retail, and Customer Service background. Diligent researcher, if it's caught my interest I've read at least 2 articles and watched a few youtube videos on it!
+- I'm currently learning React & Redux
+- I plan on learning MongoDB, Express, NodeJS, and React Native
+- I'm looking to find a coding mentor
+- ⚡ Fun fact⚡ I am colorblind, and that probably contributes to charcoal being my favorite color.
+ 
 ## Future Project
 ### Pokemon Nuzlocke Rule Generator/Tracker/Randomizer App(React Native?)
 Player selects the game, rules/difficulty, and can set up the guidelines or have them generated for you. User can see past nuzlocke games played(includes team, graveyard, etc.)
