@@ -17,7 +17,9 @@ Full Stack Software Engineer experienced in Javascript and Ruby on Rails, Childr
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=david-p-molina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+##
 ## Future Projects
 ### Pokemon Nuzlocke Rule Generator/Tracker/Randomizer App(React Native?)
 Player selects the game, rules/difficulty, and can set up the guidelines or have them generated for you. User can see past nuzlocke games played(includes team, graveyard, etc.)
@@ -35,6 +37,13 @@ Take the risk out of Crypto-Investing, You can invest with imaginary digital cur
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=david-p-molina&show_icons=true&hide_border=true" />
+
+</details>
 
 <!-- resources: -->
 <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools -->
