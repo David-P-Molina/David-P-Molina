@@ -24,10 +24,13 @@ Full Stack Software Engineer experienced in Javascript and Ruby on Rails, Childr
 
 ##
 ## Future Projects
-### Pokemon Nuzlocke Rule Generator/Tracker/Randomizer App(React Native?)
-Player selects the game, rules/difficulty, and can set up the guidelines or have them generated for you. User can see past nuzlocke games played(includes team, graveyard, etc.)
+### Coffee Recipe Tracker(React Native?)
+For Coffee Snobs who want to track their recipes and tweak how they brew coffee. Allows a User to record Coffee Bean, Roast, Water Temp, Weight, Length Brewed etc.
 
 ## Currently Working on:
+### Pokemon Nuzlocke Rule Generator/Tracker/Randomizer App(React/Redux & Ruby API)
+Player selects the game, rules/difficulty, and can set up the guidelines or have them generated for you. User can see past nuzlocke games played(includes team, graveyard, etc.)
+
 ### MemeCoin Simulator(React/Redux & Ruby API)
 Take the risk out of Crypto-Investing, You can invest with imaginary digital currency and see how well you do.
 
