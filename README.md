@@ -3,7 +3,7 @@
 Full Stack Software Engineer experienced in Javascript and Ruby on Rails, Children's Ministry, Retail, and Customer Service. Diligent researcher, if it's caught my interest I've read at least 2 articles and watched a few youtube videos on it!
 
 - I'm currently learning React & Redux
-- I plan on learning MongoDB, Express, NodeJS, and React Native
+- I plan on learning MongoDB, Express and NodeJS next and in the future React Native
 - I'm looking to find a coding mentor
 - ⚡ Fun fact⚡ I am colorblind, and that probably contributes to charcoal being my favorite color.
  
