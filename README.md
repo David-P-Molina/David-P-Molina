@@ -44,9 +44,9 @@ Take the risk out of Crypto-Investing, You can invest with imaginary digital cur
 
 ### Connect with me:
 
-[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="Medium" width="22px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />][medium]
-[<img align="center" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
+[<img align="center" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />][medium]
+[<img align="center" alt="twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 
 ##
 
