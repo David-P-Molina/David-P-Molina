@@ -45,7 +45,8 @@ Take the risk out of Crypto-Investing, You can invest with imaginary digital cur
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://david-p-molina.medium.com/)
+[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />][medium]
+[<img align="left" alt="Medium" width="80" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 
 ##
 
@@ -59,3 +60,5 @@ Take the risk out of Crypto-Investing, You can invest with imaginary digital cur
 <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools -->
 
 [linkedin]: https://linkedin.com/in/david-p-molina/
+[medium]: https://david-p-molina.medium.com/
+[twitter]: https://twitter.com/DavidPMolina_SE
