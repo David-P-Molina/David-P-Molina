@@ -2,7 +2,7 @@
 ## Mini Bio
 Full Stack Software Engineer experienced in React, Javascript and Ruby on Rails, Children's Ministry, Retail, and Customer Service. Diligent researcher, if it's caught my interest I've read at least 2 articles and watched a few youtube videos on it!
 
-- I'm currently learning Data Structures & Algorithms
+- I'm currently learning Data Structures & Algorithms & Python
 - I plan on learning MongoDB, Express and NodeJS next and in the future React Native
 - I'm looking to find a coding mentor
 - ⚡ Fun fact ⚡ I am colorblind, and that probably contributes to charcoal being my favorite color.
@@ -24,23 +24,19 @@ Full Stack Software Engineer experienced in React, Javascript and Ruby on Rails,
 
 ##
 ## Future Projects
-
+### BookShelf App (Rails)
 ## Currently Working on:
 
-### Pokemon Nuzlocke Rule Generator App(React/Redux & Rails API)
+### Pokemon Nuzlocke Rule Generator App (React/Redux & Rails API)
 Player selects the game, rules/difficulty, and can set up the guidelines or have them generated for you. User can see past nuzlocke games played(includes team, graveyard, etc.)
 
-## Backburner
-
-### MemeCoin Simulator(React/Redux & Ruby API)
-Take the risk out of Crypto-Investing, You can invest with imaginary digital currency and see how well you do.
 
 ## Completed Projects
-### Coffee Recipe Tracker(React/Redux & Rails API)
-### Horsepower Converter(JavaScript & Ruby API)
+### Coffee Recipe Tracker (React/Redux & Rails API)
+### Horsepower Converter (JavaScript & Ruby API)
 ### Classic Literature -> Yoda Lingo Translator(Ruby on Rails)
-### Marvel Contest of Contest(MCOC) Roster Tracker(Sinatra(Ruby))
-### Pokemon Pokedex(Kanto) CLI(Ruby)
+### Marvel Contest of Contest Roster Tracker(Sinatra(Ruby Framework))
+### Pokemon Kanto Pokedex CLI (Ruby)
 
 ### Connect with me:
 
