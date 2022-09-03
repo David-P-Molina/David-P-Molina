@@ -2,8 +2,8 @@
 ## Mini Bio
 Full Stack Software Engineer experienced in React, Angular, Javascript/Typescript, Java, and Ruby on Rails, Children's Ministry, Retail, and Customer Service. Diligent researcher, if it's caught my interest I've read at least 2 articles and watched a few youtube videos on it!
 
-- I'm currently learning Data Structures & Algorithms & SpringBoot
-- I plan on learning C#, Python and NodeJS
+- I'm currently learning Python
+- I plan on learning C# and NodeJS
 - I'm looking to find a coding mentor
 - ⚡ Fun fact ⚡ I am colorblind, and that probably contributes to charcoal being my favorite color.
  
